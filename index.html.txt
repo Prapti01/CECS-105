@@ -1,0 +1,39 @@
+<div>
+<h1>Prapti Barua | Full-time Student</h1>
+<p>California State University, Long Beach</p>
+</div>
+<nav><button type="button" data-toggle="collapse" data-target="#collapsibleNavbar"> </button></nav>
+<div>
+<div>
+<div>
+<h2>About Me</h2>
+<p>Thank you for visiting my page! I was born in Bangladesh but was mostly raised in America. I speak 3 languages (Bengali, English, and Hindi) and love to read. My favorite author is Rick Riordan, and I mostly enjoy fantasy novels like Percy Jackson! I am really passionate about cooking, however, I know I cannot pursue this as a career at the moment. I love trying new foods and dishes, but nothing can beat a good burger and a side of well-seasoned fries. One fun fact about me is that I do not like drinking soda. I prefer to drink just water with my meals. When I feel fancy I like to add in lemon slices or other fruits. Currently, I am not sure what I want to study or what my career path should be, but I want to keep my options open.</p>
+<h3>Some Links</h3>
+<ul>
+<li><a href="#">Prapti.Barua@student.csulb.edu</a></li>
+<li><a href="#">https://www.youtube.com/watch?v=jg2EbOrvYfo</a></li>
+</ul>
+<hr /></div>
+<div>
+<h2>Nice to Meet You!</h2>
+<img src="IMG_9423.JPG" alt="Prapti Barua" width="200" height="400" /> <br />
+<h2>Some Hobbies I Enjoy Include...</h2>
+<div>
+<div>
+<ul>
+<li>Reading</li>
+<li>Cooking</li>
+<li>Hiking</li>
+<li>Cleaning and organizing</li>
+<li>Redecorating my house</li>
+<li>Doing cultural dances</li>
+</ul>
+</div>
+</div>
+<div>
+<p>Created by PRAPTI BARUA</p>
+<p>See You Again!</p>
+</div>
+</div>
+</div>
+</div>
